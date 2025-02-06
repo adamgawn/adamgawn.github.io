@@ -9,7 +9,8 @@
      WAM 70.2
 
 ## 💼 Professional Experience
-- **Technical Assistant** - O'Sullivans Patent and Trade Mark Attorneys, July 2022 - February 2024 
+## Technical Assistant - O'Sullivans Patent and Trade Mark Attorneys
+**July 2022 - February 2024** 
 - **Data Entry / General Administration:**
 Case creation and management, crucial date entries ensuring necessary reminders added to IPMS. 
 Ordering office supplies and maintaining stock levels. Printing/scanning and filing as per company requirements. 
@@ -32,7 +33,8 @@ Ensured compliance with ethical and professional standards of the legal and IP i
 Kept abreast of industry developments. 
 Maintained professional certifications through ongoing education and training.
 
-- **Work Experience Intern** - Mann IP, November 2021 - December 2021  
+## Work Experience Intern - Mann IP
+**November 2021 - December 2021**  
 Administration, claim drafting exercises legal research and prior art searching/summaries (non-patent / patent literature).
 
 
