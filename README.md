@@ -1,6 +1,6 @@
 # Adam Gawn - Aspiring Patent and Trade Mark Attorney
 
-👋 Hi there! I'm Adam Gawn, a highly motivated individual with a strong academic background and a passion for intellectual property (IP) law. I am currently seeking a **Technical Assistant** position to leverage my technical expertise, analytical skills, and enthusiasm for innovation.
+👋 Hi there! I'm a highly motivated individual with a strong academic background and a passion for intellectual property (IP) law. I am currently seeking a **Technical Assistant** position to leverage my technical expertise, analytical skills, and enthusiasm for innovation.
 
 ## 🎓 Education
 - **Master's Degree ongoing in IP** - University of Technology Sydney, Completion end 2025 
