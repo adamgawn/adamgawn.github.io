@@ -18,7 +18,7 @@ Ordering office supplies and maintaining stock levels.
 Printing/scanning and filing as per company requirements.  
 Time charges, billing and invoicing.  
 - **Patent Prosecution:**  
-Drafting responses to office actions from IP Australia, IPONZ or International patent offices.  
+Drafting responses to office actions from IP Australia, IPONZ and International patent offices.  
 Conducting patentability searches through AusPat and Google Patents.  
 Preparing online electronic applications to be lodged by over-seeing attorney.   
 - **IP Portfolio Management:**  
@@ -26,7 +26,7 @@ Assisted clients in managing and maintaining their IP portfolios.
 Provided status reports.  
 Answered queries pertaining to their application(s).  
 Monitoring competitors' activities.  
-Conducting IP due diligence through regular case monitoring, ensuring deadlines are kept whilst maintaining communication with client.  
+Conducting IP due diligence through regular case monitoring, ensuring deadlines are kept whilst maintaining communication with clients.  
 - **Client Communication:**  
 Drafted regular communication for clients, explaining complex legal concepts in a clear and accessible manner.  
 Utilised templates and cross-checked crucial data with IPMS.  
