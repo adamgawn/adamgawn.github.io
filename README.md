@@ -10,34 +10,34 @@
 
 ## 💼 Professional Experience
 ## Technical Assistant - O'Sullivans Patent and Trade Mark Attorneys
-**July 2022 - February 2024** 
-- **Data Entry / General Administration:**
+**July 2022 - February 2024**  
+- **Data Entry / General Administration:**  
 Case creation and management.  
 Crucial date entries ensuring necessary reminders added to IPMS.  
 Ordering office supplies and maintaining stock levels.  
 Printing/scanning and filing as per company requirements.  
 Time charges, billing and invoicing.  
-- **Patent Prosecution:** 
+- **Patent Prosecution:**  
 Drafting responses to office actions from IP Australia, IPONZ or International patent offices.  
 Conducting patentability searches through AusPat and Google Patents.  
 Preparing online electronic applications to be lodged by over-seeing attorney.   
-- **IP Portfolio Management:** 
+- **IP Portfolio Management:**  
 Assisted clients in managing and maintaining their IP portfolios.  
 Provided status reports.  
 Answered queries pertaining to their application(s).  
 Monitoring competitors' activities.  
 Conducting IP due diligence through regular case monitoring, ensuring deadlines are kept whilst maintaining communication with client.  
-- **Client Communication:**
+- **Client Communication:**  
 Drafted regular communication for clients, explaining complex legal concepts in a clear and accessible manner.  
 Utilised templates and cross-checked crucial data with IPMS.  
 Sat-in on client meetings and greeted incoming clients at reception.  
-- **Research and Analysis:**
+- **Research and Analysis:**  
 Understood relevant IP laws and regulation changes.  
 Conducted prior art searches (non-patent / patent literature).  
 Analysed and applied relevant case law to use in response to office actions.  
-- **Ethical and Professional Standards:** 
+- **Ethical and Professional Standards:**  
 Ensured compliance with ethical and professional standards of the legal and IP industry. 
-- **Continuing Education:**
+- **Continuing Education:**  
 Kept abreast of industry developments.  
 Maintained professional certifications through ongoing education and training. 
 
