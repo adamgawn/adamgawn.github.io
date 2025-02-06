@@ -3,10 +3,10 @@
 👋 Hi there! I'm a highly motivated individual with a strong academic background and a passion for intellectual property (IP) law. I am currently seeking a **Technical Assistant** position to leverage my technical expertise, analytical skills, and enthusiasm for innovation.
 
 ## 🎓 Education
-- **Master's Degree ongoing in IP** - University of Technology Sydney, Completion end 2025 
-   Preparing for IP Law (HD); Patent Law (D); Trade Mark Law (C)
+- **Master's Degree ongoing in IP** - University of Technology Sydney, Completion end 2025   
+     Preparing for IP Law (HD); Patent Law (D); Trade Mark Law (C)  
 - **Bachelor's Degree in Physics** - University of Western Australia, 2021  
-   WAM 70.2
+     WAM 70.2
 
 ## 💼 Professional Experience
 - **Technical Assistant** - O'Sullivans Patent and Trade Mark Attorneys, July 2022 - February 2024 
