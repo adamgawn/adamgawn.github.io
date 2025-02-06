@@ -3,7 +3,7 @@
 👋 Hi there! I'm Adam Gawn, a highly motivated individual with a strong academic background and a passion for intellectual property (IP) law. I am currently seeking a **Technical Assistant** position to leverage my technical expertise, analytical skills, and enthusiasm for innovation.
 
 ## 🎓 Education
-- **Master's Degree ongoing in IP** - University of Technology Sydney, Completion end 2025
+- **Master's Degree ongoing in IP** - University of Technology Sydney, Completion end 2025 
    Preparing for IP Law (HD); Patent Law (D); Trade Mark Law (C)
 - **Bachelor's Degree in Physics** - University of Western Australia, 2021  
    WAM 70.2
@@ -47,7 +47,7 @@ Administration, claim drafting exercises legal research and prior art searching/
 I am passionate about innovation and the protection of intellectual property. As a technical assistant, I aim to combine my technical knowledge with my interest in law to help inventors and businesses safeguard their ideas. I am eager to contribute to the IP field by assisting clients in navigating the complexities of patent and trade mark applications.
 
 ## 📚 Continuous Learning
-I am committed to professional development and am actively pursuing opportunities to expand my knowledge of IP law. I am particularly interested in [specific areas of IP law, e.g., patents in emerging technologies, trade mark disputes, etc.].
+I am committed to professional development and am actively pursuing opportunities to expand my knowledge of IP law. I am particularly interested in drafting claims and specifications.
 
 ## 🌟 What I Bring to the Table
 - A strong foundation in physics and biochemistry and a keen interest in intellectual property.
